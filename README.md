@@ -8,9 +8,10 @@ Metrics: Accuracy
 ## Datasets:
 
 https://www.tensorflow.org/datasets/catalog/fashion_mnist
-## Visualiztion
 
-![image](https://drive.google.com/file/d/1S2t7drVA0OuBC-36TqNYl6AlaMu22qfu/view?usp=drive_link)
+##Training
+<img width="683" alt="image" src="https://github.com/user-attachments/assets/d0a7381e-ecb1-421f-b770-5f4eb6c6c1e0" />
+
 
 ## Requirements
 
